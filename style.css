@@ -1,0 +1,104 @@
+* {
+    margin : 0px;
+    padding : 0px;
+    font-style : tahoma;
+    font-size : 3vmin;
+    color : #090025ef;
+}
+
+#heading {
+    height : 10vmin;
+    width : 100%;
+    background-color : #f8ff0064;
+    display : flex;
+    justify-content : flex-start;
+    align-items : center;   
+}
+
+#nimi {
+    height : 8vmin;
+    width : 20vmin;
+    background-image : url("nimi.jpg"); 
+    background-size : cover;
+    margin-right : 25vmin;
+}
+
+#logo {
+    height : 8vmin;
+    width : 10vmin;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+
+#I {
+    color : #0018ff;
+    font-size : 8vmin;
+    font-weight : 900;
+}
+
+#T {
+    color : #ff7300;
+    font-size : 8vmin;
+    font-weight : 900;
+}
+
+#I2 {
+    color : #259e00;
+    font-size : 8vmin;
+    font-weight : 900;
+}
+
+#sign-in {
+    margin-left : 30vmin; 
+    width : 15vmin;
+    display : block-flex;
+    justify-content : center;
+    align-items : center;
+}
+
+#sign {
+    font-size : 3vmin;
+    font-weight : 450;
+    color : #090025ef;
+}
+
+#register {
+    font-size : 3vmin;
+    font-weight : 400;
+    color : #090025ef;
+}
+
+#sub-head {
+    height : 5vmin;
+    background-color : #f8ff0064;
+    display : flex;
+    justify-content : center;
+    align-items : center;   
+}
+
+#name {
+    font-size : 4vmin;
+    color : #090025ef;
+}
+
+#navbar {
+    height : 7vmin;
+    background-color : #6aa2ff;
+    display : flex;
+    align-items : center;
+    justify-content : space-evenly;
+    font-size : 5vmin;
+    font-weight : 450;
+}
+
+a {
+    text-decoration : none;
+    margin-right : 15px;
+}
+
+#lines {
+    transform : rotate(90deg);
+    margin-top : 1vmin;
+}
+
